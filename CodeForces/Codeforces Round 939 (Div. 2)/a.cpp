@@ -1,6 +1,11 @@
 #include<bits/stdc++.h>
 using namespace std;
 int t,k,q,a[1010];
+void ttt()
+{
+	int a=0;
+	a++;
+}
 void solute()
 {
 	cin>>k>>q;
